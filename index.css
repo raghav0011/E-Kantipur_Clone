@@ -1,0 +1,68 @@
+.main-container{
+    width: 70px;
+}
+
+.dashain-banner{
+    position: relative;
+  
+}
+
+.sub-logo {
+    position: absolute;
+    left: 100px;
+    bottom: 100px;
+    margin-left: 419px;
+    text-align: center;
+    color:rgb(182, 172, 172) ;
+    font-family: 'Mukta', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+
+}
+
+.top{
+    display: flex;
+    padding: 0 16.8px;
+}
+
+.advertisement{
+    position: absolute;
+    margin-top: 36px;
+    margin-left: 118px;
+   
+}
+
+.kangresh{
+            padding: 3px 10px;
+            background: #0f6eb1;
+            color: #fff;
+           
+}
+
+.trillion{
+    color: #222;
+    display: block;
+    width: 1108px;
+    text-align: center;
+    bottom: 1004px;
+    position: absolute;
+    left: 100px;
+}
+
+.train {
+
+    position: absolute;
+    bottom: 360px;
+    left: 150px;
+    width: 1079px;
+}
+
+.aside-container{
+    overflow-x: hidden;
+    padding: 0.8em 1em 0;
+    margin-bottom: 42em;
+    margin-right: 1.5em;
+    border: 1px solid #e9e9e9;
+    margin-left: 13px;
+    border-radius: 4px;
+    background-color: #fff;
+    color: #333;
+}
